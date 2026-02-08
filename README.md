@@ -9,7 +9,7 @@ The Generalized Sequential Pattern (GSP) algorithm is a data mining technique us
 3. <strong>Pattern Growth:</strong> It extends the candidate sequences by merging them to form longer patterns, checking their support against a user-defined minimum support threshold.
 4. <strong>Repeat:</strong> The process continues until no new sequences meet the minimum support threshold.
 <p align="justify">
-GSP finds application in various domains such as market basket analysis, web usage mining, bioinformatics, and more. For instance, in retail, GSP can identify common purchasing patterns, helping businesses understand customer behavior for targeted marketing or inventory management.
+GSP finds application in various domains such as market basket analysis, web usage mining, bioinformatics, and more. For instance, in retail, GSP can identify common purchasing patterns, helping businesses understand customer behavior for targeted marketing or inventory management. 
 </p>
 
 ### Procedure:
